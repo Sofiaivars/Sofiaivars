@@ -28,7 +28,10 @@ Here are some ideas to get you started:
    
 
 <div align="center">
-<h3> 👾 Sofia Ivars  | 💻 Full Stack Developer - UX/UI| 🛸 Valencia, ES <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3> 👾 Sofia Ivars  | 💻 Full Stack Developer - UX/UI | 🛸 Valencia, ES 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="40">
+</h3>
+
 </div>
 
  <h5 align="center">
@@ -69,7 +72,8 @@ Here are some ideas to get you started:
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat-square&logo=flask&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/-SQL-%23007ACC?style=flat-square&logo=mysql&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-%23007ACC?style=flat-square&logo=mysql&logoColor=ffffff)
+
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
