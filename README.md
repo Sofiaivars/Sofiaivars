@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Sofia Ivars</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://hemant.codes">Sofia Ivars</a> <img src="https://media.giphy.com/media/susVmXQlij43HTsC8e/giphy.gif?cid=ecf05e47ve332i4x7b6q9xy4hzz7wz0be2723yyejr6fkk4m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25px"> </h1>
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
