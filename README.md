@@ -55,11 +55,6 @@ Here are some ideas to get you started:
 
 <!--  -->
 
-<p align="center" >
-<a href="https://github.com/Sofiaivars/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemantt&&show_icons=true&theme=radical"/>
-  </a>
-</p>
 
 <br />
 
