@@ -19,18 +19,13 @@ Here are some ideas to get you started:
 
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Sofia Ivars</a> <img src="https://media.giphy.com/media/susVmXQlij43HTsC8e/giphy.gif?cid=ecf05e47ve332i4x7b6q9xy4hzz7wz0be2723yyejr6fkk4m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25px"> </h1>
-   
-   
+      
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/sofia-ivars/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-
-<a href="https://dev.to/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-
-
-
+   
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👾 Sofia Ivars  | 💻 Full Stack Developer - UX/UI| 🛸 Valencia, ES <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
@@ -40,10 +35,9 @@ Here are some ideas to get you started:
    <i>🎮 Life’s too short to use bad libraries.
 </i>
   </h5>
- 
- 
+  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/susVmXQlij43HTsC8e/giphy.gif?cid=ecf05e47ve332i4x7b6q9xy4hzz7wz0be2723yyejr6fkk4m&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 <p align="center">
   <h3> I'm 28 years old Full-Stack developer & UX/UI from Spain.</h3>
 </p>
