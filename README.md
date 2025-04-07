@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat-square&logo=flask&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-%23007ACC?style=flat-square&logo=mysql&logoColor=ffffff)
+
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
