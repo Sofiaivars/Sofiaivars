@@ -66,49 +66,56 @@ Here are some ideas to get you started:
   <tr>
     <td align="center">
       <a href="https://astroradar.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/assets/astroradar.png" alt="AstroRadar" width="200"/><br />
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/astroradar.png" alt="AstroRadar" width="260"/><br /><br />
         <strong>AstroRadar</strong><br />
-        <sub>Webapp de visualización astronómica<br />(React + TailwindCSS + Python + SQL + APIs)</sub>
       </a>
+        Webapp de visualización astronómica<br />
+        (React + TailwindCSS + Python + SQL + APIs)
     </td>
     <td align="center">
       <a href="https://pokerisimo.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/assets/Pokerisimo.png" alt="Pokerisimo" width="200"/><br />
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/pokerisimo.png" alt="Pokerisimo" width="260"/><br /><br />
         <strong>Pokerisimo</strong><br />
-        <sub>Mesa de poker estilo pixel<br />(JavaScript + React)</sub>
       </a>
+        Mesa de poker estilo pixel<br />
+        (JavaScript + React)
     </td>
     <td align="center">
       <a href="https://www.figma.com/proto/BuFjBEDCc4c2jUVZWhBt2Q/PROYECTO-FINAL_IVARS?page-id=0%3A1&node-id=6-12&starting-point-node-id=6%3A12&t=HCoyE3T2Ojo8SSkV-1" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/assets/Abillion.png" alt="Abillion" width="200"/><br />
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/abillion.png" alt="Abillion" width="260"/><br /><br />
         <strong>Abillion</strong><br />
-        <sub>Refactor de red social para plant based people<br />(Figma, Heurísticas, Atomic Design, UX)</sub>
       </a>
+        Refactor de red social para plant based people<br />
+        (Figma, Heurísticas, Atomic Design, UX)
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://www.figma.com/proto/uyCXA8N1uBcnSHZo9EozXH/Adoptapp_UXUI?page-id=0%3A1&node-id=526-23546&starting-point-node-id=526%3A23546&scaling=scale-down&content-scaling=fixed&show-proto-sidebar=1&t=0sqyngxOdb46dQpL-1" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/assets/adoptapp-roedor.png" alt="Adoptapp" width="200"/><br />
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/adoptapp-roedor.png" alt="Adoptapp" width="200"/><br /><br />
         <strong>Adoptapp</strong><br />
-        <sub>App para adopciones<br />(Figma, UI Kit, UX Guidelines)</sub>
       </a>
+        App para adopciones<br />
+        (Figma, UI Kit, UX Guidelines)
     </td>
     <td align="center">
       <a href="https://www.figma.com/proto/Zdu343N8K8yhXXGmxAO820/Untitled?page-id=0%3A1&node-id=33-247&p=f&viewport=468%2C602%2C0.1&t=Q68CjW4jW8A4RvbP-1&scaling=min-zoom&content-scaling=fixed" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/assets/veganbowlery.png" alt="VeganBowlery" width="200"/><br />
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/veganbowlery.png" alt="VeganBowlery" width="260"/><br /><br />
         <strong>VeganBowlery</strong><br />
-        <sub>Diseño UI para web de comida saludable<br />(Figma, Photoshop, Atomic Design)</sub>
       </a>
+        Diseño UI para web de comida saludable<br />
+        (Figma, Photoshop, Atomic Design)
     </td>
     <td align="center">
       <a href="https://neonarmy.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/assets/neonarmy.png" alt="NeonArmy" width="200"/><br />
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/neonarmy.png" alt="NeonArmy" width="260"/><br /><br />
         <strong>NeonArmy</strong><br />
-        <sub>Web para productos del metaverso<br />(HTML, CSS, SASS, Bootstrap)</sub>
       </a>
+        Web para productos del metaverso<br />
+        (HTML, CSS, SASS, Bootstrap)
     </td>
   </tr>
 </table>
+
 
 
