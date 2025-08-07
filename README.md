@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Sofia Ivars</a>  </h1>
       
-![Badge de Codewars](https://www.codewars.com/users/Sofiaivars/badges/large?theme=dark)
+[![Badge de Codewars](https://www.codewars.com/users/Sofiaivars/badges/large?theme=dark)](https://www.codewars.com/users/Sofiaivars)
 
  
 
@@ -35,19 +35,9 @@ Here are some ideas to get you started:
 </i>
   </h5>
   
-<br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/susVmXQlij43HTsC8e/giphy.gif?cid=ecf05e47ve332i4x7b6q9xy4hzz7wz0be2723yyejr6fkk4m&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-<p align="center">
-  <h3> I'm 29 years old Full-Stack developer & UX/UI from Spain.</h3>
-</p>
 
+<img align="center" height="210px" width="390px" alt="GIF" src="https://media.giphy.com/media/susVmXQlij43HTsC8e/giphy.gif?cid=ecf05e47ve332i4x7b6q9xy4hzz7wz0be2723yyejr6fkk4m&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
- <p align="center">
-  <h4> Full Stack developer </h4>
-   </p>
-
-<!--  -->
-<br />
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -70,27 +60,55 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
 
 
+<h2 align="center">🚀 Algunos de mis proyectos</h2>
 
-## 𝗦𝘁𝗮𝘁𝘀
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://astroradar.netlify.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/assets/astroradar.png" alt="AstroRadar" width="200"/><br />
+        <strong>AstroRadar</strong><br />
+        <sub>Webapp de visualización astronómica<br />(React + TailwindCSS + Python + SQL + APIs)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pokerisimo.netlify.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/assets/Pokerisimo.png" alt="Pokerisimo" width="200"/><br />
+        <strong>Pokerisimo</strong><br />
+        <sub>Mesa de poker estilo pixel<br />(JavaScript + React)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/proto/BuFjBEDCc4c2jUVZWhBt2Q/PROYECTO-FINAL_IVARS?page-id=0%3A1&node-id=6-12&starting-point-node-id=6%3A12&t=HCoyE3T2Ojo8SSkV-1" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/assets/Abillion.png" alt="Abillion" width="200"/><br />
+        <strong>Abillion</strong><br />
+        <sub>Refactor de red social para plant based people<br />(Figma, Heurísticas, Atomic Design, UX)</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.figma.com/proto/uyCXA8N1uBcnSHZo9EozXH/Adoptapp_UXUI?page-id=0%3A1&node-id=526-23546&starting-point-node-id=526%3A23546&scaling=scale-down&content-scaling=fixed&show-proto-sidebar=1&t=0sqyngxOdb46dQpL-1" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/assets/adoptapp-roedor.png" alt="Adoptapp" width="200"/><br />
+        <strong>Adoptapp</strong><br />
+        <sub>App para adopciones<br />(Figma, UI Kit, UX Guidelines)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/proto/Zdu343N8K8yhXXGmxAO820/Untitled?page-id=0%3A1&node-id=33-247&p=f&viewport=468%2C602%2C0.1&t=Q68CjW4jW8A4RvbP-1&scaling=min-zoom&content-scaling=fixed" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/assets/veganbowlery.png" alt="VeganBowlery" width="200"/><br />
+        <strong>VeganBowlery</strong><br />
+        <sub>Diseño UI para web de comida saludable<br />(Figma, Photoshop, Atomic Design)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://neonarmy.netlify.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/assets/neonarmy.png" alt="NeonArmy" width="200"/><br />
+        <strong>NeonArmy</strong><br />
+        <sub>Web para productos del metaverso<br />(HTML, CSS, SASS, Bootstrap)</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-
-
-
- ### - What i do
-
-
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611l91t7kmjz543utwwdwx2s9kx8yisnc4zi9qmbceq&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-   </p>
-   
-   
-<br />
-
-
-
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
