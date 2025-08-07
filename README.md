@@ -41,24 +41,13 @@ Here are some ideas to get you started:
   <h3> I'm 29 years old Full-Stack developer & UX/UI from Spain.</h3>
 </p>
 
- - 👓 Learning at 4geeks fullstack developer bootcamp
- 
- - <i>with HTML, CSS, Javascript, React, Python, SQL..</i>
-   
-- ❤️ 3d world
-  
- 
+
  <p align="center">
-  <h4> Full Stack | Competitive Programming </h4>
+  <h4> Full Stack developer </h4>
    </p>
 
 <!--  -->
-
-
 <br />
-
-### - Languages and Tools...
-
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
