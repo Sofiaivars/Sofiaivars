@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **Sofiaivars/Sofiaivars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,12 +19,9 @@ Here are some ideas to get you started:
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Sofia Ivars</a>  </h1>
       
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
-</div>
+![Badge de Codewars](https://www.codewars.com/users/Sofiaivars/badges/large?theme=dark)
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/sofia-ivars/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-   
+ 
 
 <div align="center">
 <h3> 👾 Sofia Ivars  | 💻 Full Stack Developer - UX/UI | 🛸 Valencia, ES 
