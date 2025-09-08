@@ -88,6 +88,22 @@ Here are some ideas to get you started:
         (React, JavaScript, Python, SQLAlchemy, JWT Auth)
     </td>
     <td align="center">
+      <a href="https://starwars-world.netlify.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/vehicle.png" alt="Abillion" width="260"/><br /><br />
+        <strong>StarWars World</strong><br />
+      </a>
+        Blog de informacion sobre el mundo starwars<br />
+        ( React Router DOM, Context API, useReducer, Bootstrap, Vite, SWAPI.tech, API)
+    </td>
+    <td align="center">
+      <a href="https://neonarmy.netlify.app/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/neonarmy.png" alt="NeonArmy" width="260"/><br /><br />
+        <strong>NeonArmy</strong><br />
+      </a>
+        Web para productos del metaverso<br />
+        (HTML, CSS, SASS, Bootstrap)
+    </td>
+         <td align="center">
       <a href="https://www.figma.com/proto/BuFjBEDCc4c2jUVZWhBt2Q/PROYECTO-FINAL_IVARS?page-id=0%3A1&node-id=6-12&starting-point-node-id=6%3A12&t=HCoyE3T2Ojo8SSkV-1" target="_blank">
         <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/abillion.png" alt="Abillion" width="260"/><br /><br />
         <strong>Abillion</strong><br />
@@ -112,14 +128,6 @@ Here are some ideas to get you started:
       </a>
         Diseño UI para web de comida saludable<br />
         (Figma, Photoshop, Atomic Design)
-    </td>
-    <td align="center">
-      <a href="https://neonarmy.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/neonarmy.png" alt="NeonArmy" width="260"/><br /><br />
-        <strong>NeonArmy</strong><br />
-      </a>
-        Web para productos del metaverso<br />
-        (HTML, CSS, SASS, Bootstrap)
     </td>
     <td align="center">
       <a href="https://www.figma.com/proto/yAbMstXXSB8xtbiAgq471j/YoCocino?page-id=1%3A2&node-id=6-10697&p=f&viewport=-440%2C-702%2C0.18&t=lOoEl31yAqOvnGu6-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=6%3A10697" target="_blank">
