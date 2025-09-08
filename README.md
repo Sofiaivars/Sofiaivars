@@ -59,7 +59,6 @@ Here are some ideas to get you started:
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
 
-
 <h2 align="center">🚀 Algunos de mis proyectos</h2>
 
 <table align="center">
@@ -79,6 +78,14 @@ Here are some ideas to get you started:
       </a>
         Mesa de poker estilo pixel<br />
         (JavaScript + React)
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sofiaivars/Registro" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/Registro.png" alt="Login-registro" width="260"/><br /><br />
+        <strong>Login Auth</strong><br />
+      </a>
+       Login con registro <br />
+        (React, JavaScript, Python, SQLAlchemy, JWT Auth)
     </td>
     <td align="center">
       <a href="https://www.figma.com/proto/BuFjBEDCc4c2jUVZWhBt2Q/PROYECTO-FINAL_IVARS?page-id=0%3A1&node-id=6-12&starting-point-node-id=6%3A12&t=HCoyE3T2Ojo8SSkV-1" target="_blank">
@@ -114,8 +121,15 @@ Here are some ideas to get you started:
         Web para productos del metaverso<br />
         (HTML, CSS, SASS, Bootstrap)
     </td>
+    <td align="center">
+      <a href="https://www.figma.com/proto/yAbMstXXSB8xtbiAgq471j/YoCocino?page-id=1%3A2&node-id=6-10697&p=f&viewport=-440%2C-702%2C0.18&t=lOoEl31yAqOvnGu6-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=6%3A10697" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/YoCocino.png" alt="YoCocino" width="260"/><br /><br />
+        <strong>YoCocino</strong><br />
+      </a>
+       App de cocina local<br />
+        (Angular, Typescript, HTML, CSS, Bootstrap)
+    </td>
   </tr>
 </table>
-
 
 
