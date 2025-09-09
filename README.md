@@ -58,86 +58,97 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
-
 <h2 align="center">🚀 Algunos de mis proyectos</h2>
 
 <table align="center">
+  <!-- Fila 1 -->
   <tr>
     <td align="center">
       <a href="https://astroradar.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/astroradar.png" alt="AstroRadar" width="260"/><br /><br />
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/astroradar.png" alt="AstroRadar" width="360"/><br /><br />
         <strong>AstroRadar</strong><br />
-      </a>
         Webapp de visualización astronómica<br />
         (React + TailwindCSS + Python + SQL + APIs)
+      </a>
     </td>
     <td align="center">
       <a href="https://pokerisimo.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/pokerisimo.png" alt="Pokerisimo" width="260"/><br /><br />
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/Pokerisimo.png" alt="Pokerisimo" width="360"/><br /><br />
         <strong>Pokerisimo</strong><br />
-      </a>
         Mesa de poker estilo pixel<br />
         (JavaScript + React)
+      </a>
     </td>
     <td align="center">
       <a href="https://github.com/Sofiaivars/Registro" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/Registro.png" alt="Login-registro" width="260"/><br /><br />
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/Registro.png" alt="Login-registro" width="360"/><br /><br />
         <strong>Login Auth</strong><br />
-      </a>
-       Login con registro <br />
+        Login con registro<br />
         (React, JavaScript, Python, SQLAlchemy, JWT Auth)
+      </a>
     </td>
     <td align="center">
       <a href="https://starwars-world.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/vehicle.png" alt="Abillion" width="260"/><br /><br />
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/vehicle.png" alt="StarWars World" width="360"/><br /><br />
         <strong>StarWars World</strong><br />
+        Blog de información sobre StarWars<br />
+        (React Router DOM, Context API, useReducer, Bootstrap, Vite, SWAPI.tech, API)
       </a>
-        Blog de informacion sobre el mundo starwars<br />
-        ( React Router DOM, Context API, useReducer, Bootstrap, Vite, SWAPI.tech, API)
     </td>
     <td align="center">
       <a href="https://neonarmy.netlify.app/" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/neonarmy.png" alt="NeonArmy" width="260"/><br /><br />
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/neonarmy.png" alt="NeonArmy" width="360"/><br /><br />
         <strong>NeonArmy</strong><br />
-      </a>
         Web para productos del metaverso<br />
         (HTML, CSS, SASS, Bootstrap)
-    </td>
-         <td align="center">
-      <a href="https://www.figma.com/proto/BuFjBEDCc4c2jUVZWhBt2Q/PROYECTO-FINAL_IVARS?page-id=0%3A1&node-id=6-12&starting-point-node-id=6%3A12&t=HCoyE3T2Ojo8SSkV-1" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/abillion.png" alt="Abillion" width="260"/><br /><br />
-        <strong>Abillion</strong><br />
       </a>
-        Refactor de red social para plant based people<br />
-        (Figma, Heurísticas, Atomic Design, UX)
     </td>
   </tr>
+
+  <!-- Fila 2 -->
   <tr>
     <td align="center">
-      <a href="https://www.figma.com/proto/uyCXA8N1uBcnSHZo9EozXH/Adoptapp_UXUI?page-id=0%3A1&node-id=526-23546&starting-point-node-id=526%3A23546&scaling=scale-down&content-scaling=fixed&show-proto-sidebar=1&t=0sqyngxOdb46dQpL-1" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/adoptapp-roedor.png" alt="Adoptapp" width="200"/><br /><br />
-        <strong>Adoptapp</strong><br />
+      <a href="https://www.figma.com/proto/BuFjBEDCc4c2jUVZWhBt2Q/PROYECTO-FINAL_IVARS" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/abillion.png" alt="Abillion" width="320"/><br /><br />
+        <strong>Abillion</strong><br />
+        Refactor de red social para plant based people<br />
+        (Figma, Heurísticas, Atomic Design, UX)
       </a>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/proto/BuFjBEDCc4c2jUVZWhBt2Q/PROYECTO-FINAL_IVARS" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/coffice.png" alt="Coffice" width="320"/><br /><br />
+        <strong>Coffice</strong><br />
+        App para cafetería móvil<br />
+        (Figma, Heurísticas, Atomic Design, UX)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/proto/uyCXA8N1uBcnSHZo9EozXH/Adoptapp_UXUI" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/adoptapp-roedor.png" alt="Adoptapp" width="360"/><br /><br />
+        <strong>Adoptapp</strong><br />
         App para adopciones<br />
         (Figma, UI Kit, UX Guidelines)
+      </a>
     </td>
     <td align="center">
-      <a href="https://www.figma.com/proto/Zdu343N8K8yhXXGmxAO820/Untitled?page-id=0%3A1&node-id=33-247&p=f&viewport=468%2C602%2C0.1&t=Q68CjW4jW8A4RvbP-1&scaling=min-zoom&content-scaling=fixed" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/veganbowlery.png" alt="VeganBowlery" width="260"/><br /><br />
+      <a href="https://www.figma.com/proto/Zdu343N8K8yhXXGmxAO820/Untitled" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/veganbowlery.png" alt="VeganBowlery" width="360"/><br /><br />
         <strong>VeganBowlery</strong><br />
-      </a>
         Diseño UI para web de comida saludable<br />
         (Figma, Photoshop, Atomic Design)
+      </a>
     </td>
     <td align="center">
-      <a href="https://www.figma.com/proto/yAbMstXXSB8xtbiAgq471j/YoCocino?page-id=1%3A2&node-id=6-10697&p=f&viewport=-440%2C-702%2C0.18&t=lOoEl31yAqOvnGu6-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=6%3A10697" target="_blank">
-        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/YoCocino.png" alt="YoCocino" width="260"/><br /><br />
+      <a href="https://www.figma.com/proto/yAbMstXXSB8xtbiAgq471j/YoCocino" target="_blank">
+        <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/YoCocino.png" alt="YoCocino" width="360"/><br /><br />
         <strong>YoCocino</strong><br />
-      </a>
-       App de cocina local<br />
+        App de cocina local<br />
         (Angular, Typescript, HTML, CSS, Bootstrap)
+      </a>
     </td>
   </tr>
 </table>
+
 
 
