@@ -116,7 +116,7 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td align="center">
-      <a href="https://www.figma.com/proto/BuFjBEDCc4c2jUVZWhBt2Q/PROYECTO-FINAL_IVARS" target="_blank">
+      <a href="https://www.figma.com/proto/6HHgW3ZQNJYFJptKb9Vyvh/Coffice?page-id=0%3A1&node-id=35-1358&viewport=-2401%2C-5151%2C0.8&t=mpcSrGkztXXg9hkF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=35%3A1358" target="_blank">
         <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/coffice.png" alt="Coffice" width="320"/><br /><br />
         <strong>Coffice</strong><br />
         App para cafetería móvil<br />
