@@ -1,4 +1,5 @@
-## Hi there 👋
+![Header](https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/github-header-banner.png)
+
 <!--
 **Sofiaivars/Sofiaivars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,18 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-
-<div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Sofia Ivars</a>  </h1>
-      
+-->      
 [![Badge de Codewars](https://www.codewars.com/users/Sofiaivars/badges/large?theme=dark)](https://www.codewars.com/users/Sofiaivars)
 
- 
-
-<div align="center">
+ <div align="center">
 <h3> 👾 Sofia Ivars  | 💻 Full Stack Developer - UX/UI | 🛸 Valencia, ES 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="40">
 </h3>
