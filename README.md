@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </i>
   </h5>
   
-
+<div align="center">
 <img align="center" height="210px" width="390px" alt="GIF" src="https://media.giphy.com/media/susVmXQlij43HTsC8e/giphy.gif?cid=ecf05e47ve332i4x7b6q9xy4hzz7wz0be2723yyejr6fkk4m&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
 <h2 align="center">🚀 Algunos de mis proyectos Front end - Full stack</h2>
-
+</div>
 <table align="center">
 
   <tr>
