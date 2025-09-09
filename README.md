@@ -140,7 +140,7 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td align="center">
-      <a href="https://www.figma.com/proto/yAbMstXXSB8xtbiAgq471j/YoCocino" target="_blank">
+      <a href="https://www.figma.com/proto/yAbMstXXSB8xtbiAgq471j/YoCocino?page-id=1%3A2&node-id=6-10697&viewport=277%2C51%2C0.08&t=otMa21DIBU2Ohm63-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=6%3A10697" target="_blank">
         <img src="https://raw.githubusercontent.com/Sofiaivars/Sofiaivars/main/Assets/YoCocino.png" alt="YoCocino" width="360"/><br /><br />
         <strong>YoCocino</strong><br />
         App de cocina local<br />
