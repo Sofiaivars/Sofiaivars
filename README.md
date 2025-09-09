@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
-<h2 align="center">🚀 Algunos de mis proyectos</h2>
+<h2 align="center">🚀 Algunos de mis proyectos Front end - Full stack</h2>
 
 <table align="center">
-  <!-- Fila 1 -->
+
   <tr>
     <td align="center">
       <a href="https://astroradar.netlify.app/" target="_blank">
@@ -104,8 +104,10 @@ Here are some ideas to get you started:
       </a>
     </td>
   </tr>
-
-  <!-- Fila 2 -->
+   </table>
+   
+   <table align="center">
+<h2 align="center">🎨 Proyectos UX/UI - Product Design</h2>
   <tr>
     <td align="center">
       <a href="https://www.figma.com/proto/BuFjBEDCc4c2jUVZWhBt2Q/PROYECTO-FINAL_IVARS" target="_blank">
